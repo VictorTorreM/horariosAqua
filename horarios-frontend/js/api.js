@@ -5,10 +5,10 @@
 // que usamos la URL pública del backend en Render.
 //
 // TODO: sustituye esta URL por la que te dé Render al desplegar el backend.
-const BACKEND_PRODUCCION = "https://horariosaqua.onrender.com";
+const BACKEND_PRODUCCION = "https://horariosaqua.onrender.com;
 
 const esLocal = ["localhost", "127.0.0.1"].includes(location.hostname);
-const API_BASE = esLocal ? "http://localhost:8080/api" : BACKEND_PRODUCCION;
+const API_BASE = esLocal ? "https://horariosaqua.onrender.com" : BACKEND_PRODUCCION;
 
 export async function obtenerDias() {
   const respuesta = await fetch(`${API_BASE}/dias`);
