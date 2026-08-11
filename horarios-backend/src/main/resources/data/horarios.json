@@ -1,0 +1,190 @@
+[
+  {
+    "id": "jueves-openair",
+    "dia": "JUEVES",
+    "escenario": "OPEN_AIR",
+    "escenarioLabel": null,
+    "apertura": "2026-08-13T21:00:00",
+    "cierre": "2026-08-14T07:00:00",
+    "actuaciones": [
+      { "id": "jue-openair-2100", "artista": "Cristian Varela", "live": false, "nota": "Special Opening Set", "inicio": "2026-08-13T21:00:00", "fin": "2026-08-13T23:30:00" },
+      { "id": "jue-openair-2330", "artista": "Anika Kunst B2B DJ Bruce Lee", "live": false, "nota": null, "inicio": "2026-08-13T23:30:00", "fin": "2026-08-14T01:00:00" },
+      { "id": "jue-openair-0100", "artista": "RRonin (Raffaele Attanasio B2B Rebecca Delle Piane)", "live": false, "nota": null, "inicio": "2026-08-14T01:00:00", "fin": "2026-08-14T02:30:00" },
+      { "id": "jue-openair-0230", "artista": "David Mallada", "live": false, "nota": null, "inicio": "2026-08-14T02:30:00", "fin": "2026-08-14T04:00:00" },
+      { "id": "jue-openair-0400", "artista": "Phara & Setaoc Mass", "live": false, "nota": "presenta Seconds", "inicio": "2026-08-14T04:00:00", "fin": "2026-08-14T05:30:00" },
+      { "id": "jue-openair-0530", "artista": "Regal", "live": false, "nota": null, "inicio": "2026-08-14T05:30:00", "fin": "2026-08-14T07:00:00" }
+    ]
+  },
+  {
+    "id": "jueves-bosque",
+    "dia": "JUEVES",
+    "escenario": "BOSQUE",
+    "escenarioLabel": "Mixmag Spain Stage",
+    "apertura": "2026-08-13T21:00:00",
+    "cierre": "2026-08-14T07:00:00",
+    "actuaciones": [
+      { "id": "jue-bosque-2100", "artista": "Marlie", "live": false, "nota": null, "inicio": "2026-08-13T21:00:00", "fin": "2026-08-13T22:15:00" },
+      { "id": "jue-bosque-2215", "artista": "Caal B2B Mar-T", "live": false, "nota": null, "inicio": "2026-08-13T22:15:00", "fin": "2026-08-13T23:30:00" },
+      { "id": "jue-bosque-2330", "artista": "Jean Pierre B2B Jesse Calosso", "live": false, "nota": null, "inicio": "2026-08-13T23:30:00", "fin": "2026-08-14T01:00:00" },
+      { "id": "jue-bosque-0100", "artista": "Honeyluv", "live": false, "nota": null, "inicio": "2026-08-14T01:00:00", "fin": "2026-08-14T02:30:00" },
+      { "id": "jue-bosque-0230", "artista": "TSHA", "live": false, "nota": null, "inicio": "2026-08-14T02:30:00", "fin": "2026-08-14T04:00:00" },
+      { "id": "jue-bosque-0400", "artista": "Mason Collective", "live": false, "nota": null, "inicio": "2026-08-14T04:00:00", "fin": "2026-08-14T05:30:00" },
+      { "id": "jue-bosque-0530", "artista": "Seb Zito", "live": false, "nota": null, "inicio": "2026-08-14T05:30:00", "fin": "2026-08-14T07:00:00" }
+    ]
+  },
+  {
+    "id": "jueves-carpa",
+    "dia": "JUEVES",
+    "escenario": "CARPA_LA_REAL",
+    "escenarioLabel": null,
+    "apertura": "2026-08-13T22:00:00",
+    "cierre": "2026-08-14T07:00:00",
+    "actuaciones": [
+      { "id": "jue-carpa-2200", "artista": "Alex Vigo", "live": false, "nota": null, "inicio": "2026-08-13T22:00:00", "fin": "2026-08-13T23:00:00" },
+      { "id": "jue-carpa-2300", "artista": "Auriga", "live": false, "nota": null, "inicio": "2026-08-13T23:00:00", "fin": "2026-08-14T00:00:00" },
+      { "id": "jue-carpa-0000", "artista": "Blondex", "live": false, "nota": null, "inicio": "2026-08-14T00:00:00", "fin": "2026-08-14T01:15:00" },
+      { "id": "jue-carpa-0115", "artista": "Prada2000", "live": false, "nota": null, "inicio": "2026-08-14T01:15:00", "fin": "2026-08-14T02:30:00" },
+      { "id": "jue-carpa-0230", "artista": "SNTS", "live": false, "nota": null, "inicio": "2026-08-14T02:30:00", "fin": "2026-08-14T03:30:00" },
+      { "id": "jue-carpa-0330", "artista": "Luciid B2B Skryption", "live": false, "nota": null, "inicio": "2026-08-14T03:30:00", "fin": "2026-08-14T05:00:00" },
+      { "id": "jue-carpa-0500", "artista": "Onlynumbers", "live": false, "nota": null, "inicio": "2026-08-14T05:00:00", "fin": "2026-08-14T06:00:00" },
+      { "id": "jue-carpa-0600", "artista": "Luca Agnelli", "live": false, "nota": null, "inicio": "2026-08-14T06:00:00", "fin": "2026-08-14T07:00:00" }
+    ]
+  },
+  {
+    "id": "viernes-carpa",
+    "dia": "VIERNES",
+    "escenario": "CARPA_LA_REAL",
+    "escenarioLabel": null,
+    "apertura": "2026-08-14T19:00:00",
+    "cierre": "2026-08-15T09:00:00",
+    "actuaciones": [
+      { "id": "vie-carpa-1900", "artista": "Chusso", "live": false, "nota": null, "inicio": "2026-08-14T19:00:00", "fin": "2026-08-14T20:15:00" },
+      { "id": "vie-carpa-2015", "artista": "Alienata B2B Yngryd", "live": false, "nota": null, "inicio": "2026-08-14T20:15:00", "fin": "2026-08-14T21:30:00" },
+      { "id": "vie-carpa-2130", "artista": "JakoJako", "live": true, "nota": null, "inicio": "2026-08-14T21:30:00", "fin": "2026-08-14T22:30:00" },
+      { "id": "vie-carpa-2230", "artista": "Chris Liebing B2B Luke Slater", "live": false, "nota": null, "inicio": "2026-08-14T22:30:00", "fin": "2026-08-15T00:30:00" },
+      { "id": "vie-carpa-0030", "artista": "Fadi Mohem", "live": true, "nota": null, "inicio": "2026-08-15T00:30:00", "fin": "2026-08-15T01:30:00" },
+      { "id": "vie-carpa-0130", "artista": "Ben Sims", "live": false, "nota": null, "inicio": "2026-08-15T01:30:00", "fin": "2026-08-15T03:00:00" },
+      { "id": "vie-carpa-0300", "artista": "DVS1", "live": false, "nota": null, "inicio": "2026-08-15T03:00:00", "fin": "2026-08-15T04:30:00" },
+      { "id": "vie-carpa-0430", "artista": "Adriana Lopez B2B Dasha Rush", "live": false, "nota": null, "inicio": "2026-08-15T04:30:00", "fin": "2026-08-15T06:00:00" },
+      { "id": "vie-carpa-0600", "artista": "Zisko", "live": false, "nota": null, "inicio": "2026-08-15T06:00:00", "fin": "2026-08-15T07:30:00" },
+      { "id": "vie-carpa-0730", "artista": "DJ Pepo", "live": false, "nota": null, "inicio": "2026-08-15T07:30:00", "fin": "2026-08-15T09:00:00" }
+    ]
+  },
+  {
+    "id": "viernes-openair",
+    "dia": "VIERNES",
+    "escenario": "OPEN_AIR",
+    "escenarioLabel": null,
+    "apertura": "2026-08-14T19:30:00",
+    "cierre": "2026-08-15T09:00:00",
+    "actuaciones": [
+      { "id": "vie-openair-1930", "artista": "Delgado", "live": false, "nota": null, "inicio": "2026-08-14T19:30:00", "fin": "2026-08-14T21:00:00" },
+      { "id": "vie-openair-2100", "artista": "DJ Guestlist", "live": false, "nota": null, "inicio": "2026-08-14T21:00:00", "fin": "2026-08-14T22:30:00" },
+      { "id": "vie-openair-2230", "artista": "Aerea", "live": true, "nota": null, "inicio": "2026-08-14T22:30:00", "fin": "2026-08-15T00:00:00" },
+      { "id": "vie-openair-0000", "artista": "Überkikz", "live": false, "nota": null, "inicio": "2026-08-15T00:00:00", "fin": "2026-08-15T01:30:00" },
+      { "id": "vie-openair-0130", "artista": "I Hate Models", "live": false, "nota": null, "inicio": "2026-08-15T01:30:00", "fin": "2026-08-15T03:00:00" },
+      { "id": "vie-openair-0300", "artista": "Novah", "live": false, "nota": null, "inicio": "2026-08-15T03:00:00", "fin": "2026-08-15T04:30:00" },
+      { "id": "vie-openair-0430", "artista": "Kobosil", "live": false, "nota": null, "inicio": "2026-08-15T04:30:00", "fin": "2026-08-15T06:00:00" },
+      { "id": "vie-openair-0600", "artista": "Fatima Hajji", "live": false, "nota": null, "inicio": "2026-08-15T06:00:00", "fin": "2026-08-15T07:30:00" },
+      { "id": "vie-openair-0730", "artista": "Patrick Mason", "live": false, "nota": null, "inicio": "2026-08-15T07:30:00", "fin": "2026-08-15T09:00:00" }
+    ]
+  },
+  {
+    "id": "viernes-bosque",
+    "dia": "VIERNES",
+    "escenario": "BOSQUE",
+    "escenarioLabel": "Rebels",
+    "apertura": "2026-08-14T21:00:00",
+    "cierre": "2026-08-15T09:00:00",
+    "actuaciones": [
+      { "id": "vie-bosque-2100", "artista": "Nicsen", "live": false, "nota": null, "inicio": "2026-08-14T21:00:00", "fin": "2026-08-14T22:30:00" },
+      { "id": "vie-bosque-2230", "artista": "Dhuna", "live": false, "nota": null, "inicio": "2026-08-14T22:30:00", "fin": "2026-08-15T00:00:00" },
+      { "id": "vie-bosque-0000", "artista": "Hardt Antoine", "live": false, "nota": null, "inicio": "2026-08-15T00:00:00", "fin": "2026-08-15T01:30:00" },
+      { "id": "vie-bosque-0130", "artista": "Henrik Schwarz", "live": true, "nota": null, "inicio": "2026-08-15T01:30:00", "fin": "2026-08-15T03:00:00" },
+      { "id": "vie-bosque-0300", "artista": "Sam Divine", "live": false, "nota": null, "inicio": "2026-08-15T03:00:00", "fin": "2026-08-15T04:30:00" },
+      { "id": "vie-bosque-0430", "artista": "Silvie Loto", "live": false, "nota": null, "inicio": "2026-08-15T04:30:00", "fin": "2026-08-15T06:00:00" },
+      { "id": "vie-bosque-0600", "artista": "Rossi.", "live": false, "nota": null, "inicio": "2026-08-15T06:00:00", "fin": "2026-08-15T07:30:00" },
+      { "id": "vie-bosque-0730", "artista": "Dennis Ferrer", "live": false, "nota": null, "inicio": "2026-08-15T07:30:00", "fin": "2026-08-15T09:00:00" }
+    ]
+  },
+  {
+    "id": "sabado-openair",
+    "dia": "SABADO",
+    "escenario": "OPEN_AIR",
+    "escenarioLabel": null,
+    "apertura": "2026-08-15T20:00:00",
+    "cierre": "2026-08-16T10:00:00",
+    "actuaciones": [
+      { "id": "sab-openair-2000", "artista": "Pushmann", "live": false, "nota": null, "inicio": "2026-08-15T20:00:00", "fin": "2026-08-15T21:30:00" },
+      { "id": "sab-openair-2130", "artista": "Laure Croft", "live": false, "nota": null, "inicio": "2026-08-15T21:30:00", "fin": "2026-08-15T23:00:00" },
+      { "id": "sab-openair-2300", "artista": "Adiel B2B Quest", "live": false, "nota": null, "inicio": "2026-08-15T23:00:00", "fin": "2026-08-16T00:30:00" },
+      { "id": "sab-openair-0030", "artista": "Robert Hood", "live": false, "nota": null, "inicio": "2026-08-16T00:30:00", "fin": "2026-08-16T02:00:00" },
+      { "id": "sab-openair-0200", "artista": "Philippa Pacho B2B Rødhåd", "live": false, "nota": null, "inicio": "2026-08-16T02:00:00", "fin": "2026-08-16T03:30:00" },
+      { "id": "sab-openair-0330", "artista": "Amelie Lens", "live": false, "nota": null, "inicio": "2026-08-16T03:30:00", "fin": "2026-08-16T05:00:00" },
+      { "id": "sab-openair-0500", "artista": "Elli Acula", "live": false, "nota": null, "inicio": "2026-08-16T05:00:00", "fin": "2026-08-16T06:30:00" },
+      { "id": "sab-openair-0630", "artista": "Chlär B2B Yanamaste", "live": false, "nota": null, "inicio": "2026-08-16T06:30:00", "fin": "2026-08-16T08:00:00" },
+      { "id": "sab-openair-0800", "artista": "Héctor Oaks", "live": false, "nota": null, "inicio": "2026-08-16T08:00:00", "fin": "2026-08-16T10:00:00" }
+    ]
+  },
+  {
+    "id": "sabado-bosque",
+    "dia": "SABADO",
+    "escenario": "BOSQUE",
+    "escenarioLabel": "Loop",
+    "apertura": "2026-08-15T21:00:00",
+    "cierre": "2026-08-16T10:00:00",
+    "actuaciones": [
+      { "id": "sab-bosque-2100", "artista": "Leo Meizoso", "live": false, "nota": null, "inicio": "2026-08-15T21:00:00", "fin": "2026-08-15T22:15:00" },
+      { "id": "sab-bosque-2215", "artista": "Chanin", "live": false, "nota": null, "inicio": "2026-08-15T22:15:00", "fin": "2026-08-15T23:30:00" },
+      { "id": "sab-bosque-2330", "artista": "Alexander Som", "live": false, "nota": null, "inicio": "2026-08-15T23:30:00", "fin": "2026-08-16T01:00:00" },
+      { "id": "sab-bosque-0100", "artista": "Cassimm B2B Tony Romera", "live": false, "nota": null, "inicio": "2026-08-16T01:00:00", "fin": "2026-08-16T02:30:00" },
+      { "id": "sab-bosque-0230", "artista": "Fleur Shore B2B Prunk", "live": false, "nota": null, "inicio": "2026-08-16T02:30:00", "fin": "2026-08-16T04:00:00" },
+      { "id": "sab-bosque-0400", "artista": "Héctor Llamazares", "live": false, "nota": null, "inicio": "2026-08-16T04:00:00", "fin": "2026-08-16T05:30:00" },
+      { "id": "sab-bosque-0530", "artista": "East End Dubs", "live": false, "nota": null, "inicio": "2026-08-16T05:30:00", "fin": "2026-08-16T07:00:00" },
+      { "id": "sab-bosque-0700", "artista": "Jayda G", "live": false, "nota": null, "inicio": "2026-08-16T07:00:00", "fin": "2026-08-16T08:30:00" },
+      { "id": "sab-bosque-0830", "artista": "Joris Voorn", "live": false, "nota": null, "inicio": "2026-08-16T08:30:00", "fin": "2026-08-16T10:00:00" }
+    ]
+  },
+  {
+    "id": "sabado-carpa",
+    "dia": "SABADO",
+    "escenario": "CARPA_LA_REAL",
+    "escenarioLabel": "Real Ravers",
+    "apertura": "2026-08-15T19:00:00",
+    "cierre": "2026-08-16T10:00:00",
+    "actuaciones": [
+      { "id": "sab-carpa-1900", "artista": "Unai", "live": false, "nota": null, "inicio": "2026-08-15T19:00:00", "fin": "2026-08-15T20:00:00" },
+      { "id": "sab-carpa-2000", "artista": "DHV2", "live": false, "nota": null, "inicio": "2026-08-15T20:00:00", "fin": "2026-08-15T21:00:00" },
+      { "id": "sab-carpa-2100", "artista": "Lucia Gea", "live": false, "nota": null, "inicio": "2026-08-15T21:00:00", "fin": "2026-08-15T22:00:00" },
+      { "id": "sab-carpa-2200", "artista": "Cleopard2000", "live": false, "nota": null, "inicio": "2026-08-15T22:00:00", "fin": "2026-08-15T23:00:00" },
+      { "id": "sab-carpa-2300", "artista": "Barbara Lago", "live": false, "nota": null, "inicio": "2026-08-15T23:00:00", "fin": "2026-08-16T00:00:00" },
+      { "id": "sab-carpa-0000", "artista": "Frederic. B2B Trancemaster Krause", "live": false, "nota": null, "inicio": "2026-08-16T00:00:00", "fin": "2026-08-16T01:00:00" },
+      { "id": "sab-carpa-0100", "artista": "Peterblue", "live": false, "nota": null, "inicio": "2026-08-16T01:00:00", "fin": "2026-08-16T02:00:00" },
+      { "id": "sab-carpa-0200", "artista": "Rikhter", "live": true, "nota": null, "inicio": "2026-08-16T02:00:00", "fin": "2026-08-16T03:00:00" },
+      { "id": "sab-carpa-0300", "artista": "999999999", "live": false, "nota": null, "inicio": "2026-08-16T03:00:00", "fin": "2026-08-16T04:00:00" },
+      { "id": "sab-carpa-0400", "artista": "Dexphase B2B Negitiv", "live": false, "nota": null, "inicio": "2026-08-16T04:00:00", "fin": "2026-08-16T05:00:00" },
+      { "id": "sab-carpa-0500", "artista": "Vendex", "live": false, "nota": null, "inicio": "2026-08-16T05:00:00", "fin": "2026-08-16T06:00:00" },
+      { "id": "sab-carpa-0600", "artista": "Parsa Jafari", "live": false, "nota": null, "inicio": "2026-08-16T06:00:00", "fin": "2026-08-16T07:00:00" },
+      { "id": "sab-carpa-0700", "artista": "Essan", "live": false, "nota": null, "inicio": "2026-08-16T07:00:00", "fin": "2026-08-16T08:00:00" },
+      { "id": "sab-carpa-0800", "artista": "Klofama", "live": false, "nota": null, "inicio": "2026-08-16T08:00:00", "fin": "2026-08-16T09:00:00" },
+      { "id": "sab-carpa-0900", "artista": "Aida Blanco", "live": false, "nota": null, "inicio": "2026-08-16T09:00:00", "fin": "2026-08-16T10:00:00" }
+    ]
+  },
+  {
+    "id": "domingo-after",
+    "dia": "DOMINGO",
+    "escenario": "AFTER_PARTY",
+    "escenarioLabel": null,
+    "apertura": "2026-08-16T11:00:00",
+    "cierre": "2026-08-16T19:45:00",
+    "actuaciones": [
+      { "id": "dom-after-1100", "artista": "Alain Fanegas", "live": false, "nota": null, "inicio": "2026-08-16T11:00:00", "fin": "2026-08-16T12:15:00" },
+      { "id": "dom-after-1215", "artista": "Jairo Beltrami", "live": false, "nota": null, "inicio": "2026-08-16T12:15:00", "fin": "2026-08-16T13:30:00" },
+      { "id": "dom-after-1330", "artista": "Anna Tur", "live": false, "nota": null, "inicio": "2026-08-16T13:30:00", "fin": "2026-08-16T14:45:00" },
+      { "id": "dom-after-1445", "artista": "Alycia Bezgo", "live": false, "nota": null, "inicio": "2026-08-16T14:45:00", "fin": "2026-08-16T16:00:00" },
+      { "id": "dom-after-1600", "artista": "Carlos Pérez B2B K-Style", "live": false, "nota": null, "inicio": "2026-08-16T16:00:00", "fin": "2026-08-16T17:15:00" },
+      { "id": "dom-after-1715", "artista": "Human Error", "live": false, "nota": null, "inicio": "2026-08-16T17:15:00", "fin": "2026-08-16T18:30:00" },
+      { "id": "dom-after-1830", "artista": "Alba Franch", "live": false, "nota": null, "inicio": "2026-08-16T18:30:00", "fin": "2026-08-16T19:45:00" }
+    ]
+  }
+]

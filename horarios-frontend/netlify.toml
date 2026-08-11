@@ -1,0 +1,9 @@
+[build]
+  # No hay paso de build: es HTML/CSS/JS plano, se publica tal cual.
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
