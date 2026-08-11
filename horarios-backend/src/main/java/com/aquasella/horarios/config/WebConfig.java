@@ -24,7 +24,7 @@ public class WebConfig implements WebMvcConfigurer {
                         "http://localhost:5500",
                         "http://127.0.0.1:5500",
                         "http://localhost:5173",
-                        "https://rad-piroshki-717c29.netlify.app"
+                        "https://horariosaqua2026.netlify.app"
                 )
                 .allowedMethods("GET");
     }
