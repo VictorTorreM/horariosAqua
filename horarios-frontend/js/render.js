@@ -176,6 +176,25 @@ function crearLineaAhora(ejeInicio, ejeFin) {
   return linea;
 }
 
+/**
+ * Mueve la línea de "ahora" sin reconstruir toda la cuadrícula.
+ * Se llama cada pocos segundos; combinada con la transición CSS de
+ * `.linea-ahora`, produce un movimiento continuo de izquierda a
+ * derecha en vez de saltos bruscos. El "resync" exacto (por si hay
+ * que crearla o quitarla al entrar/salir del rango del día) lo sigue
+ * haciendo el re-render completo cada minuto.
+ */
+export function actualizarLineaAhora() {
+  const linea = elContenido.querySelector(".linea-ahora");
+  if (!linea) return;
+
+  const sesionesDelDia = estado.sesiones.filter((s) => s.dia === estado.diaSeleccionado);
+  if (sesionesDelDia.length === 0) return;
+
+  const { ejeInicio } = calcularEjeTemporal(sesionesDelDia);
+  linea.style.left = `${ANCHO_COL_ESCENARIO + minutosDesde(ejeInicio, new Date()) * PX_POR_MINUTO}px`;
+}
+
 /** Actualiza solo el estado visual de un bloque, sin re-renderizar toda la cuadrícula. */
 export function actualizarBloqueFavorito(idActuacion) {
   const bloque = elContenido.querySelector(`.bloque-actuacion[data-id="${idActuacion}"]`);

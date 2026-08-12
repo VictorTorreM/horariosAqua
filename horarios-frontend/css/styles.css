@@ -54,6 +54,15 @@ button {
   outline-offset: 2px;
 }
 
+/* El atributo HTML `hidden` debe ganar SIEMPRE, incluso a componentes
+   que ya definen su propio `display` (chips, contador de favoritos,
+   etiqueta LIVE...). Sin esto, la regla del componente empata en
+   especificidad con el `[hidden]` del navegador y puede ganar ella,
+   dejando el elemento visible aunque JS le haya puesto `hidden`. */
+[hidden] {
+  display: none !important;
+}
+
 /* ============================================================
    CABECERA
    ============================================================ */
@@ -365,6 +374,7 @@ button {
 
 @media (prefers-reduced-motion: reduce) {
   .etiqueta-live::before { animation: none; }
+  .linea-ahora { transition: none; }
 }
 
 @keyframes pulso {
@@ -642,6 +652,7 @@ button {
   background: var(--accent-ember);
   z-index: 2;
   pointer-events: none;
+  transition: left 10s linear;
 }
 
 .linea-ahora::before {

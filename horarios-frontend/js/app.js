@@ -10,6 +10,7 @@ import {
   renderContadorFavoritos,
   actualizarBotonFavorito,
   actualizarBloqueFavorito,
+  actualizarLineaAhora,
 } from "./render.js";
 
 const elContenido = document.getElementById("contenido");
@@ -68,7 +69,7 @@ elChipsEscenarios.addEventListener("click", (evento) => {
   if (!chip) return;
   estado.escenarioSeleccionado = chip.dataset.escenario;
   renderChipsEscenarios();
-  renderVistaHorario();
+  renderVistaActual();
 });
 
 // Delegación de eventos sobre todo el contenido: cubre tanto la vista
@@ -128,6 +129,13 @@ setInterval(() => {
     renderVistaActual();
   }
 }, 60_000);
+
+// Además, en la cuadrícula, desliza la línea de "ahora" cada pocos
+// segundos (sin reconstruir nada) para que el movimiento se vea
+// continuo en vez de saltar de golpe cada minuto.
+setInterval(() => {
+  if (estado.vista === "cuadricula") actualizarLineaAhora();
+}, 10_000);
 
 /* ============================================================
    ARRANQUE
