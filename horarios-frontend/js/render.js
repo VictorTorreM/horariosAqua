@@ -397,7 +397,7 @@ function crearFilaFavorito(actuacion) {
 
   const hora = document.createElement("span");
   hora.className = "fila-favorito__hora";
-  hora.textContent = formatearHora(actuacion.inicio);
+  hora.textContent = `${formatearHora(actuacion.inicio)}-${formatearHora(actuacion.fin)}`;
 
   const nombre = document.createElement("span");
   nombre.className = "fila-favorito__artista";
